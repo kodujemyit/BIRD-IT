@@ -1,1 +1,1 @@
-# BIRD-IT - Kodujemy Rzeczywistość
+# BIRD IT - Kodujemy Rzeczywistość
